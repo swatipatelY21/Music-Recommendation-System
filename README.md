@@ -1,5 +1,5 @@
 # Music-Recommendation-System
-This repository contains my submission for MS Engage 2022. I have worked on the Algorithms challenge and built a Music Recommendation System - Musically.
+ I have worked on the Algorithms challenge and built a Music Recommendation System - Musically.
 
 # Set Up and Installation
 1. Datset used for preprocessing and analysis is given here : https://www.kaggle.com/saurabhshahane/spotgen-music-dataset
